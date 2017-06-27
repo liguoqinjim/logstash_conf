@@ -4,3 +4,4 @@
 |---|---|
 |test1.conf|读取日志文件并输出|
 |test2.conf|grok|
+|test3.conf|geoip|
