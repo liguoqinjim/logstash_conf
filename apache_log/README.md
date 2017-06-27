@@ -8,6 +8,10 @@
 |test4.conf|测试windows下读取文件的路径|
 |test5.conf|测试windows下的stdin,stdout|
 |test6.conf|windows下grok|
+|test7.conf|geoip|
+|test8.conf|date|
+|test9.conf|useragent|
+|test10.conf|output到elasticsearch|
 
 ### test2.conf运行结果
 ![Imgur](http://i.imgur.com/awcVexe.png)
