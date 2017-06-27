@@ -8,5 +8,12 @@ grok2和grok1的区别是用了不一样的正则表达式，grok2里面会把re
 
 ![Imgur](http://i.imgur.com/eaVqaXt.png)
 
-### geoip
+### geoip.conf
 ![Imgur](http://i.imgur.com/Rcxax4b.png)
+
+### json1.conf
+![Imgur](http://i.imgur.com/2MUzIEe.png)
+
+### json2.conf
+如果不打算使用多层结构的话，删掉 target 配置即可。和json1.conf的输出比较
+![Imgur](http://i.imgur.com/4Br8qAX.png)
