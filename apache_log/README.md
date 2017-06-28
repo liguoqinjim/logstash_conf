@@ -14,6 +14,7 @@
 |test10.conf|output到elasticsearch|
 |test11.conf|测试date|
 |test12.conf|output到elasticsearch|
+|test13.conf|测试读取文件的机制|
 
 ### test2.conf运行结果
 ![Imgur](http://i.imgur.com/awcVexe.png)
