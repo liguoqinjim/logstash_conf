@@ -13,6 +13,7 @@
 |test9.conf|useragent|
 |test10.conf|output到elasticsearch|
 |test11.conf|测试date|
+|test12.conf|output到elasticsearch|
 
 ### test2.conf运行结果
 ![Imgur](http://i.imgur.com/awcVexe.png)
